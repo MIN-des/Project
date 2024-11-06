@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\LG\Desktop\CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2118646261.index
-\crud\src\main\java
-C:\Users\LG\Desktop\CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2121307640.index
-\crud\src\main\java
-C:\Users\LG\Desktop\CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1219461715.index
-\crud\src\main\java
